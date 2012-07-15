@@ -1,0 +1,19 @@
+{
+    "hash": "28b27cba6ddbf0453be4176a6a29e97d",
+    "packages": [
+        {
+            "package": "pda/pheanstalk",
+            "version": "dev-master",
+            "source-reference": "f85ec43e08b71bd3fa74622df040ebfdb3dd08b2",
+            "commit-date": "1341935333"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "pda/pheanstalk": 20
+    }
+}

@@ -1,0 +1,8 @@
+The required pheanstalk library is installed with Composer
+(http://getcomposer.org).
+
+<code>
+$ php composer.phar install
+</code>
+
+put.sh and get.sh scripts are provided for convenience.
